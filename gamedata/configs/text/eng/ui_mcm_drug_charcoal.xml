@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_mcm_menu_drug_charcoal">
+		<text>Activated Charcoal</text>
+	</string>
+	<string id="ui_mcm_drug_charcoal_title">
+		<text>Activated Charcoal</text>
+	</string>
+	<string id="ui_mcm_drug_charcoal_loot_coefficient">
+		<text>Loot Chance Coefficient</text>
+	</string>
+	<string id="ui_mcm_drug_charcoal_loot_coefficient_desc">
+		<text>Default loot chance on...\n ... Novice: 9%\n ... Trainee: 8%\n ... Experienced: 6%\n ... Professional: 5%\n ... Veteran: 5%\n ... Expert: 4%\n ... Master: 3%\n ... Legend: 3%\n \nDefault value - 1.0</text>
+	</string>
+	<string id="ui_mcm_drug_charcoal_trader_restock_amount">
+		<text>Trader Restock Amount</text>
+	</string>
+	<string id="ui_mcm_drug_charcoal_trader_restock_amount_desc">
+		<text>The amount of items that the trader should restock\n \nDefault value - 3.0</text>
+	</string>
+	<string id="ui_mcm_drug_charcoal_save_uninstall">
+		<text>Delete all addon related items (for safe uninstall)</text>
+	</string>
+	<string id="ui_mcm_drug_charcoal_save_uninstall_desc">
+		<text>This option makes it possible to safely uninstall the addon.\n1) Enable it\n2) Load a game if you haven't already\n3) Make sure all items were removed\n4) Make a save, exit and disable the addon</text>
+	</string>
+</string_table>
