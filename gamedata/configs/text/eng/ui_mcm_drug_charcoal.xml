@@ -10,7 +10,7 @@
 		<text>Loot Chance Coefficient</text>
 	</string>
 	<string id="ui_mcm_drug_charcoal_loot_coefficient_desc">
-		<text>Default loot chance on...\n ... Novice: 9%\n ... Trainee: 8%\n ... Experienced: 6%\n ... Professional: 5%\n ... Veteran: 5%\n ... Expert: 4%\n ... Master: 3%\n ... Legend: 3%\n \nDefault value - 1.0</text>
+		<text>Default loot chance on...\n ... Novice: 10%\n ... Trainee: 10%\n ... Experienced: 8%\n ... Professional: 7%\n ... Veteran: 7%\n ... Expert: 6%\n ... Master: 5%\n ... Legend: 5%\n \nDefault value - 1.0</text>
 	</string>
 	<string id="ui_mcm_drug_charcoal_trader_restock_amount">
 		<text>Trader Restock Amount</text>

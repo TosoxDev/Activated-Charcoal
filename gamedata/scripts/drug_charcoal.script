@@ -4,7 +4,7 @@
 	Link:		: https://www.moddb.com/mods/stalker-anomaly/addons/dltx-activated-charcoal/
 	Author		: TosoxDev
 	Credits		: Igigog, Arti
-	Last Edit	: 16.01.2023
+	Last Edit	: 02.02.2023
 	=====================================================================
 --]]
 
@@ -67,20 +67,20 @@ function trader_autoinject.update(npc)
 end
 
 local rank_table = {
-	["novice"]			= 0.09,
-	["trainee"]			= 0.08,
-	["experienced"]		= 0.06,
-	["professional"]	= 0.05,
-	["veteran"]			= 0.05,
-	["expert"]			= 0.04,
-	["master"]			= 0.03,
-	["legend"]			= 0.03,
+	["novice"]			= 0.10,
+	["trainee"]			= 0.10,
+	["experienced"]		= 0.08,
+	["professional"]	= 0.07,
+	["veteran"]			= 0.07,
+	["expert"]			= 0.06,
+	["master"]			= 0.05,
+	["legend"]			= 0.05,
 }
 
 function loot_inject_drug_charcoal(npc, npc_rank)
 	local max_uses = SYS_GetParam(2, "drug_charcoal", "max_uses", 1)
 	local do_uses = math.random(max_uses)
-	local chance = (rank_table[npc_rank] or 0.1) * options["opt_loot_coefficient"]
+	local chance = (rank_table[npc_rank] or 0.05) * options["opt_loot_coefficient"]
 	if math.random() < chance then
 		alife_create_item("drug_charcoal", npc, { ["uses"] = do_uses })
 	end
