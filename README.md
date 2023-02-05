@@ -1,5 +1,11 @@
 # Activated Charcoal
 
+[![](https://img.shields.io/badge/Language-Python-yellow.svg?style=flat)](https://www.python.org) 
+[![](https://img.shields.io/badge/Game-S.T.A.L.K.E.R.-purple.svg?style=flat)](https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat) 
+[![](https://img.shields.io/github/languages/code-size/TosoxDev/Activated-Charcoal?color=blue&label=Code%20size&style=flat)](https://github.com/TosoxDev/Activated-Charcoal)
+[![](https://img.shields.io/tokei/lines/github/TosoxDev/Activated-Charcoal?color=darkgreen&label=Total%20lines&style=flat)](https://github.com/TosoxDev/Activated-Charcoal)
+[![](https://img.shields.io/github/downloads/TosoxDev/Activated-Charcoal/total?color=red&label=Downloads&style=flat)](https://github.com/TosoxDev/Activated-Charcoal/releases)
+
 **_Note: If you have any suggestions write me a [DM](https://www.moddb.com/messages/compose?to=Tosox) on Moddb or Discord \[Tosox#0573\]_**
 
 ## Description
