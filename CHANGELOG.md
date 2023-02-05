@@ -41,3 +41,7 @@ v1.3.2:
 v1.3.3:
 *   Added trader restock amount option for MCM
 *   Updated item description
+
+v1.3.4:
+*   Slightly increased loot chance
+*   Fixed fallback loot chance
